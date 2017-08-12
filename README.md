@@ -38,8 +38,8 @@ Clone GIT repo:
 ```
 $ git clone htps://github.com/Ch3ck/ytd
 $ go get -u google.golang.org/api/youtube/v3
-$ go get -u golang.org/x/oauth2/...
-$ go get -u github.com/github.com/Sirupsen/logrus/...
+$ go get -u golang.org/x/oauth2
+$ go get -u github.com/sirupsen/logrus
 
 ```
 
